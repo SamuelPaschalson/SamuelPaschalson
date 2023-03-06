@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamuelPaschalson
+- <b><h3>Hello 👋</h3></b>
 - 👀 I’m interested in anime and programming
 - 🌱 I’m currently learning Japanese and All programming language
 - 💞️ I’m looking to collaborate on node modules
