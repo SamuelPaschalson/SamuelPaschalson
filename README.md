@@ -1,4 +1,4 @@
-##もしもし👋
+## もしもし👋
 
 👀 I’m interested in **anime and programming**
 - 🌱 I’m also **a Self taught Developer**
