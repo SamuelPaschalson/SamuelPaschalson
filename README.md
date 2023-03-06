@@ -1,6 +1,7 @@
 ##もしもし👋
+
 👀 I’m interested in **anime and programming**
-- 🌱 I’m also **a Self taught Developer
+- 🌱 I’m also **a Self taught Developer**
 - 🗃️ I’m looking to collaborate on node modules
 - 📫 How to reach me whatsapp +2348182540860 or gmail samuelpaschalson@gmail.com
 
