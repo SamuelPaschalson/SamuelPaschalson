@@ -2,7 +2,7 @@
 
 👀 I’m interested in **anime and programming**
 - 🌱 I’m also **a Self taught Developer**
-- 🗃️ I’m looking to collaborate on node modules
+- 🗃️ I’m looking to collaborate on open source projects
 
 
 <!---
